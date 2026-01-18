@@ -1,0 +1,62 @@
+5:17:31.9176601 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 314,318, Length: 250, Priority: Very Low
+5:17:31.9176979 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 311,296, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:17:31.9374201 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 314,568, Length: 250, Priority: Very Low
+5:17:31.9374489 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 311,296, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:17:33.6484053 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\ini_settings\account.ini	SUCCESS	Offset: 0, Length: 51, Priority: Very Low
+5:17:33.6484440 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\ini_settings\account.ini	SUCCESS	Offset: 0, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:17:33.6488250 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 314,818, Length: 274, Priority: Very Low
+5:17:33.6488435 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 311,296, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:17:33.6491098 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,092, Length: 190, Priority: Very Low
+5:17:33.6491296 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 311,296, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:17:33.6493417 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,282, Length: 274, Priority: Very Low
+5:17:33.6493930 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 311,296, Length: 8,192, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:17:33.6495970 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,556, Length: 222, Priority: Very Low
+5:17:33.6496170 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:17:33.6498463 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,778, Length: 190, Priority: Very Low
+5:17:33.6498631 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:17:33.6500837 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,968, Length: 274, Priority: Very Low
+5:17:33.6501025 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:17:33.6503026 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 316,242, Length: 250, Priority: Very Low
+5:17:33.6503235 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:17:33.6505253 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 316,492, Length: 190, Priority: Very Low
+5:17:33.6505434 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:17:33.6507315 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 316,682, Length: 274, Priority: Very Low
+5:17:33.6507476 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:17:33.6509624 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 316,956, Length: 222, Priority: Very Low
+5:17:33.6509801 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:17:33.8099606 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 317,178, Length: 250, Priority: Very Low
+5:17:33.8099985 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:17:33.9174820 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 317,428, Length: 222, Priority: Very Low
+5:17:33.9175180 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:05.7061324 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\error.log.enc	SUCCESS	Offset: 50,984, Length: 274, Priority: Very Low
+5:18:05.7063973 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\error.log.enc	SUCCESS	Offset: 49,152, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:05.7066832 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 317,650, Length: 274, Priority: Very Low
+5:18:05.7067050 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:05.7075119 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 317,924, Length: 250, Priority: Very Low
+5:18:05.7075329 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:05.7078000 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 318,174, Length: 222, Priority: Very Low
+5:18:05.7078175 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:05.7081411 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 318,396, Length: 250, Priority: Very Low
+5:18:05.7081589 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:05.7084165 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 318,646, Length: 222, Priority: Very Low
+5:18:05.7084319 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:28.2833727 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\error.log.enc	SUCCESS	Offset: 51,258, Length: 306, Priority: Very Low
+5:18:28.2833994 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\error.log.enc	SUCCESS	Offset: 49,152, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:28.2836182 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 318,868, Length: 306, Priority: Very Low
+5:18:28.2836361 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:28.2838777 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\error.log.enc	SUCCESS	Offset: 51,564, Length: 306, Priority: Very Low
+5:18:28.2838961 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\error.log.enc	SUCCESS	Offset: 49,152, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:28.2841489 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 319,174, Length: 306, Priority: Very Low
+5:18:28.2841663 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:28.2845818 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\error.log.enc	SUCCESS	Offset: 51,870, Length: 274, Priority: Very Low
+5:18:28.2846119 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\error.log.enc	SUCCESS	Offset: 49,152, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:28.2848321 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 319,480, Length: 274, Priority: Very Low
+5:18:28.2848951 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 315,392, Length: 8,192, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:28.2856208 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\error.log.enc	SUCCESS	Offset: 52,144, Length: 306, Priority: Very Low
+5:18:28.2856395 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\error.log.enc	SUCCESS	Offset: 49,152, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:28.2857891 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 319,754, Length: 306, Priority: Very Low
+5:18:28.2858102 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 319,488, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:28.2860858 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\error.log.enc	SUCCESS	Offset: 52,450, Length: 274, Priority: Very Low
+5:18:28.2861080 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\error.log.enc	SUCCESS	Offset: 49,152, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
+5:18:28.2863113 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 320,060, Length: 274, Priority: Very Low
+5:18:28.2863323 PM	Maple_Hands.exe	10672	WriteFile	A:\MAP\Hands\resources\log_file\info.log.enc	SUCCESS	Offset: 319,488, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Very Low
